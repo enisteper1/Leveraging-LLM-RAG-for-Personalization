@@ -1,5 +1,12 @@
 # Leveraging-LLM-RAG-for-Personalization
+<td>
+<a target="_blank" href="https://colab.research.google.com/github/enisteper1/Leveraging-LLM-RAG-for-Personalization/blob/main/Personalized_Ranking_with_LLM_&_RAG_Structure.ipynb">
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+</td>
+<br/><br/>
+
 ## Introduction
+
 In today's fast-evolving digital space, personalization is key to enhancing user experience and satisfaction. This blog post aims to provide comprehensive insights into how Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) can be leveraged to improve personalized product recommendations. By moving through the data preprocessing, embedding generation, and personalized reranking, we will demonstrate practical application of using LLM and RAG at generating recommendations that considers individual preferences.
 
 ## 1. Data Preprocessing
