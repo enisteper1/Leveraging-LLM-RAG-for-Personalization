@@ -1,5 +1,10 @@
 # Leveraging-LLM-RAG-for-Personalization
 <td>
+<a target="_blank" href="https://medium.com/hepsiburada-data-science/leveraging-llm-rag-for-personalization-167c9109a805">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/45767042/259043664-1045243a-e7b4-46d5-a06e-7aa7d6477dec.png" width=32 height=32 />Read on Medium</a>
+</td>
+&nbsp
+<td>
 <a target="_blank" href="https://colab.research.google.com/github/enisteper1/Leveraging-LLM-RAG-for-Personalization/blob/main/Personalized_Ranking_with_LLM_&_RAG_Structure.ipynb">
 <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 </td>
